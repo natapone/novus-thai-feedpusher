@@ -1,0 +1,6 @@
+Revision history for Perl extension novus::thai::feedpusher.
+
+0.01  Fri Jun 21 15:27:21 2013
+	- original version; created by h2xs 1.23 with options
+		-X -A -n novus::thai::feedpusher
+
